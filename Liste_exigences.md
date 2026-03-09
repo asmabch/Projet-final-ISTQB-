@@ -4,10 +4,9 @@ Liste des fonctionnalités du site à tester:
 | ----------- | --------------------------- |
 | EXG-01        | Inscription utilisateur     |
 | EXG-02        | Connexion utilisateur       |
-| EXG-03        | Recherche de produit        |
-| EXG-04        | Consultation d'un produit   |
-| EXG-05        | Ajouter produit au panier   |
-| EXG-06        | Supprimer produit du panier |
-| EXG-07        | Processus de commande       |
+| EXG-03        | Consultation d'un produit   |
+| EXG-04        | Ajouter produit au panier   |
+| EXG-05        | Supprimer produit du panier |
+| EXG-06        | Processus de commande       |
 
 
