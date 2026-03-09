@@ -1,6 +1,6 @@
 Liste des cas de test:
 
-# Cas de test 1
+## Cas de test 1
 
 ### **Nom du test**
 Inscription d’un nouvel utilisateur
@@ -25,9 +25,10 @@ L’utilisateur ne possède pas encore de compte.
 
 ### **Résultats attendus**
 Le compte utilisateur est créé avec succès.
+
 ---
 
-# Cas de test 2
+## Cas de test 2
 
 ### **Nom du test**
 Connexion d’un utilisateur existant
@@ -53,9 +54,10 @@ Un compte utilisateur valide existe dans le système.
 
 ### **Résultats attendus**
 L’utilisateur est authentifié et redirigé vers son espace personnel.
+
 ---
 
-# Cas de test 3
+## Cas de test 3
 
 ### **Nom du test**
 Ajouter un produit au panier
@@ -80,9 +82,10 @@ Le site est accessible et au moins un produit est disponible dans le catalogue.
 
 ### **Résultats attendus**
 Le produit sélectionné est ajouté au panier et apparaît dans la liste des articles du panier.
+
 ---
 
-# Cas de test 4
+## Cas de test 4
 
 ### **Nom du test**
 Suppression d’un produit du panier
