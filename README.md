@@ -1,9 +1,16 @@
-# Projet-final-ISTQB-
-Test Fonctionnel d'un site web e-Commerce PrestaShop
+# Projet-final-ISTQB: Projet de test fonctionnel - PrestaShop
 
-Prérequis : 
-Accès à l’environnement de démonstration PrestaShop. 
-Liste des produits à ajouter à la boutique. 
-Compte utilisateur de test pour effectuer des actions telles que l’inscription, la connexion et le paiement. 
-Outils de développement du navigateur pour inspecter les éléments et déboguer. 
-Tests sur différents environnements.
+Ce projet consiste à réaliser des tests fonctionnels sur un site e-commerce basé sur PrestaShop.
+
+Site testé :
+https://demo.prestashop.com/#/en/front
+
+Objectifs des tests :
+- Vérifier l'inscription des utilisateurs
+- Vérifier la connexion
+- Tester la recherche de produits
+- Tester l'ajout au panier
+- Tester le processus de commande
+
+Type de test :
+Test fonctionnel manuel
