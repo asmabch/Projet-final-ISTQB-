@@ -1,8 +1,6 @@
 # Rapport des bugs
 
----
-
-## Bug ID : BUG-01
+## Bug ID: BUG-01
 
 #### Titre
 Le bouton "Add to cart" ne met pas à jour le panier immédiatement
@@ -25,13 +23,13 @@ Le panier ne se met pas à jour immédiatement.
 Moyenne
 
 #### Environnement
-Site : PrestaShop demo  
-Navigateur : Chrome  
-Système : Windows 10
+Application : Site de démonstration PrestaShop
+Navigateur : Google Chrome  
+Système d'exploitation : Windows 10
 
 ---
 
-## Bug ID : BUG-02
+## Bug ID: BUG-02
 
 #### Titre
 L’email de réinitialisation du mot de passe n’est pas reçu après la demande de récupération.
@@ -56,16 +54,16 @@ Moyenne
 
 #### Environnement
 Application : Site de démonstration PrestaShop
-Navigateur : Google Chrome
-Système d’exploitation : Windows 10
+Navigateur : Google Chrome  
+Système d'exploitation : Windows 10
 Connexion internet active
 
 ##### Capture d'écran:
-![Mot de pass oublié](screenshots/Mot de pass oublié.PNG)
+![Mot de passe oublié](screenshots/Mot-de-passe-oublié.PNG)
 
 ---
 
-## Bug ID : BUG-03
+## Bug ID: BUG-03
 
 #### Titre
 Message d’erreur de connexion non suffisamment explicite
@@ -95,10 +93,9 @@ Faible
 
 #### Environnement
 Application : Site de démonstration PrestaShop
-Navigateur : Google Chrome
-Système d’exploitation : Windows 10
+Navigateur : Google Chrome  
+Système d'exploitation : Windows 10
 
 ##### Capture d'écran:
 ![Connexion invalide](screenshots/Connexion-invalide.PNG)
-#### Statut
-Ouvert
+
