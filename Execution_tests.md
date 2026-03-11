@@ -29,7 +29,7 @@ PASS
 Le produit est ajouté au panier avec succès.
 
 ##### Capture d'écran:
-![Ajout produit panier](screenshots/Ajouter_produit_panier.png)
+![Ajout produit panier](screenshots/Ajouter-produit-panier.PNG)
 
 ---
 
