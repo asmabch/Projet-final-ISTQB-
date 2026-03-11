@@ -23,7 +23,7 @@ Le panier ne se met pas à jour immédiatement.
 Moyenne
 
 #### Environnement
-Application : Site de démonstration Prestashop
+Application : Site de démonstration Prestashop  
 Navigateur : Google Chrome  
 Système d'exploitation : Windows 10
 
@@ -53,9 +53,9 @@ Un message de confirmation indique que l’email a été envoyé, mais aucun ema
 Moyenne
 
 #### Environnement
-Application : Site de démonstration Prestashop
+Application : Site de démonstration Prestashop  
 Navigateur : Google Chrome  
-Système d'exploitation : Windows 10
+Système d'exploitation : Windows 10  
 Connexion internet active
 
 ##### Capture d'écran:
@@ -92,7 +92,7 @@ Le système affiche uniquement le message : “Authentication failed.”, sans p
 Faible
 
 #### Environnement
-Application : Site de démonstration Prestashop
+Application : Site de démonstration Prestashop  
 Navigateur : Google Chrome  
 Système d'exploitation : Windows 10
 
